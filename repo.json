@@ -1,5 +1,5 @@
 {
-  "name": "CNCVerse Multi Repo",
+  "name": "CNCVerse Repo",
   "metadataVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json",
