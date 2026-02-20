@@ -1,6 +1,9 @@
 {
-  "name": "CNCVerse Multi Repo",
+  "name": "CNCVerse Manifest",
+  "description": "All Arabic and English Extensions",
   "metadataVersion": 1,
+  "version": 1,
+  "author": "iiLEO25",
   "pluginLists": [
     "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json",
     "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/arabic-repo.json"
