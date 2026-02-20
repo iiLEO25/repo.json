@@ -1,6 +1,6 @@
 {
-  "name": "CNCVerse English Repo",
-  "metadataVersion": 1,
+  "name": "CNCVerse Nuvio Repo",
+  "metadataVersion": 2,
   "pluginLists": [
     "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json",
     "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/master/repo.json"
